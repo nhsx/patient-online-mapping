@@ -19,8 +19,6 @@
 Mary Amanuel (<a href="https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/">NHSX Analytics Unit</a>)</p>
 
 
-{% include update.html %}
-
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 ## Prescriptions
