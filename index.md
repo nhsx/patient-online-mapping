@@ -2,6 +2,10 @@
 
 # Open Analytics Template
 
+</script> <iframe title="Prescriptions ordered using an Online Patient Transaction Service per 10,000 patients in England (March 2021)
+" aria-label="map" id="datawrapper-chart-VbLmX" src="https://datawrapper.dwcdn.net/VbLmX/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="829"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+  
 {% include update.html %}
 
 <div class="nhsuk-warning-callout">
