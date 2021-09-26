@@ -1,2 +1,5 @@
-# [Patinet Online Mapping (In Developement)](https://nhsx.github.io/patient-online-mapping/)
-Built using python, [Datawrapper](https://github.com/datawrapper/datawrapper) and the [Open Source Template](https://nhsx.github.io/open-analytics-template/)
+## [Patinet Online Mapping (In Developement)](https://nhsx.github.io/patient-online-mapping/)
+
+**About:** Geogrpahic Analysis of use of Patient Online services in Enggland (August 2021)
+
+Built using python, [datawrapper](https://github.com/datawrapper/datawrapper) and the [NHS open analytics template](https://github.com/nhsx/open-analytics-template), plotly, github.io, and github actions.
