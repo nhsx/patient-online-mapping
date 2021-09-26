@@ -29,10 +29,6 @@ Mary Amanuel (<a href="https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics
   
 ### Prescriptions ordered using an Online Patient Transaction Service per 10,000 patients by Region in August 2021
 
-
-{% include prescriptions.html %}
-
-
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 ##  Appointments
@@ -40,6 +36,7 @@ Mary Amanuel (<a href="https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics
  <iframe title="Appointments booked or cancelled using an Online Patient Transaction Service per 10,000 patients in England in August 2021" aria-label="map" id="datawrapper-chart-7Qa8i" src="https://datawrapper.dwcdn.net/7Qa8i/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="816"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
   
-### Appointments booked or cancelled using an Online Patient Transaction Service per 10,000 patients by Region in August 2021
+### Regional View
   
-{% include appointments.html %}
+<iframe title="Patients in the North East and Yorkshire are most likely to use Patient Online services in England, while patients in London are the least likely" aria-label="Stacked Bars" id="datawrapper-chart-ykx47" src="https://datawrapper.dwcdn.net/ykx47/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="591"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
