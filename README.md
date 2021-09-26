@@ -1,4 +1,4 @@
-## [Patinet Online Mapping (In Developement)](https://nhsx.github.io/patient-online-mapping/)
+## [Patient Online Mapping (In Developement)](https://nhsx.github.io/patient-online-mapping/)
 
 **About:** Geogrpahic Analysis of use of Patient Online services in England (August 2021)
 
